@@ -1,21 +1,18 @@
-package net.neednot.farmnerf.listeners;
+package adhdmc.farmnerf.listeners;
 
 
-import com.sun.security.auth.login.ConfigFile;
 import net.kyori.adventure.text.Component;
-import net.neednot.farmnerf.Config;
-import net.neednot.farmnerf.FarmNerf;
+import adhdmc.farmnerf.Config;
+import adhdmc.farmnerf.FarmNerf;
 import org.bukkit.*;
 import org.bukkit.attribute.Attribute;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.entity.ExperienceOrb;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Monster;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.entity.CreatureSpawnEvent;
 import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.event.entity.EntityDeathEvent;
 import org.bukkit.event.entity.EntityRegainHealthEvent;

@@ -1,4 +1,4 @@
-package net.neednot.farmnerf;
+package adhdmc.farmnerf;
 
 import org.bukkit.Location;
 import org.bukkit.entity.LivingEntity;

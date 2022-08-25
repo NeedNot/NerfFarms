@@ -1,16 +1,13 @@
-package net.neednot.farmnerf.listeners.commands;
+package adhdmc.farmnerf.listeners.commands;
 
-import net.neednot.farmnerf.FarmNerf;
+import adhdmc.farmnerf.FarmNerf;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.TabCompleter;
-import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Commands implements CommandExecutor, TabCompleter {

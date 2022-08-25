@@ -1,7 +1,7 @@
-package net.neednot.farmnerf;
+package adhdmc.farmnerf;
 
-import net.neednot.farmnerf.listeners.Listeners;
-import net.neednot.farmnerf.listeners.commands.Commands;
+import adhdmc.farmnerf.listeners.Listeners;
+import adhdmc.farmnerf.listeners.commands.Commands;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
 
